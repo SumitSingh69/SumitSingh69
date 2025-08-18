@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **DSA, CP**
 
