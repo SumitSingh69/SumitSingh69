@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Singh Bora</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt = "coding" width = "400" src = "https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/200.webp?cid=790b7611cmvsuwh0u1jm0wyt8pogyjroie5bxjunk0k9jarz&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt = "coding" width = "400" src = "https://freeimage.host/i/KJzhKE7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-melkani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-melkani" /> </p>
 
