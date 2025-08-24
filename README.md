@@ -1,4 +1,4 @@
-![logo](https://imgs.search.brave.com/jUrRUFjA8UpvpD7VrI6m3cdk9uUHS_niJgYHJMJtCVk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMyLmFscGhhY29k/ZXJzLmNvbS8xMzYv/dGh1bWJiaWctMTM2/MDM1MC53ZWJw)
+![logo](https://imgs.search.brave.com/mvLbQbZDcCS4OUCLca9swofP0tXpYsKB90WGjOLett0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQwLzEw/LzBiLzQwMTAwYjY4/ZmU1Y2MxZWUwNzdi/OTFlZWY5ZmZhNzU5/LmpwZw)
 <h1 align="center">Hi 👋, I'm Sumit Singh Bora</h1>
 <h3 align="center">A passionate developer from India</h3>
 
