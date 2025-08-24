@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sumit Singh Bora</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt = "coding" width = "600" src = "https://imgs.search.brave.com/g7MN4IT58JjFGV3FqLAu2Dc98k3mMFvDWHkJvSWlvww/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLWNsYW4u/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzExL2hpZGRl/bi1jYXN0bGUtaW4t/dGhlLW1vdW50YWlu/cy1naGlibGktYmFj/a2dyb3VuZC1kZXNr/dG9wLXdhbGxwYXBl/ci1jb3Zlci5qcGc">
+<img align="right" alt = "coding" width = "400" src = "https://imgs.search.brave.com/g7MN4IT58JjFGV3FqLAu2Dc98k3mMFvDWHkJvSWlvww/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLWNsYW4u/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzExL2hpZGRl/bi1jYXN0bGUtaW4t/dGhlLW1vdW50YWlu/cy1naGlibGktYmFj/a2dyb3VuZC1kZXNr/dG9wLXdhbGxwYXBl/ci1jb3Zlci5qcGc">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-melkani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-melkani" /> </p>
+<p align="left"> <img src="https://imgs.search.brave.com/7EKU3SpkrKuzihHMKX5WECY0qHxwmA2M7g4lkxzT574/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDcxNDcz/OTUucG5n" /> </p>
 
 - 🔭 I’m currently working on **Competitive Programming**
 
