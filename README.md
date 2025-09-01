@@ -9,10 +9,6 @@
 
   <h2>🌐 Connect with Me</h2>
 
-  <a href="https://twitter.com/StlSumit">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-
   <a href="https://www.linkedin.com/in/sumit-bora-7a9158274/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
