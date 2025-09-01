@@ -47,16 +47,10 @@
   	<td> 
       <h2>📊 GitHub Stats</h2>
     </td>
-  	<td>
-      <h2>📊 Leetcode Stats</h2>
-    </td>
   </tr>
     <tr>
   	<td> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandrachur67&show_icons=true&locale=en&layout=compact" alt="Chandrachur67" height="195px" />
-    </td>
-  	<td>
-      <img src="https://leetcard.jacoblin.cool/Chandrachur?ext=contest" alt="LeetCode Stats" height="300px" />
     </td>
   </tr>
   </table>
