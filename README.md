@@ -1,47 +1,67 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/40/10/0b/40100b68fe5cc1ee077b91eef9ffa759.jpg" width="100%" alt="Ghibli banner">
-</p>
 
-<h1 align="center">Hi 👋, I'm Sumit Singh Bora</h1>
-<h3 align="center">A passionate developer from India</h3>
+<body>
 
-<!-- Right-side Ghibli scene -->
-<img align="right" alt="Ghibli mountains" width="380"
-     src="https://wallpapers-clan.com/wp-content/uploads/2024/11/hidden-castle-in-the-mountains-ghibli-background-desktop-wallpaper-cover.jpg">
+  <div style="text-align: center;">
+    <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=800&lines=Hi+there%2C+I'm+Sumit+Singh+Bora%21+%F0%9F%91%8B;Let's+Connect!" />
+  </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SumitSingh69&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  <p>I'm a passionate MERN Stack web developer. I love collaborating with teams to create innovative and user-friendly web applications.</p>
 
-- 🔭 I’m currently working on **Competitive Programming**  
-- 🌱 I’m currently learning **Backend Development**  
-- 💬 Ask me about **DSA, CP**  
-- 📫 How to reach me **sumitsinghbora.dev@gmail.com**
+  <h2>🌐 Connect with Me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumit-bora-7a9158274" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sumit0135" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+  <a href="https://twitter.com/ChandrchurM">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/chandrachur-mukherjee-81a574174/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Chandrachur67" alt="GitHub Profile Views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumitSingh69&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumitSingh69&show_icons=true&locale=en" alt="GitHub stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitSingh69" alt="Streak stats" /></p>
+  <h2>🚀 Technologies & Tools</h2>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs,react,express,next,tailwind,vue,firebase,rails" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,solidity,ruby&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,git,github,docker" alt="Version Control & Docker" />
+
+<!--  <div style="width: 100%">
+
+   <div style="display: flex; flex-direction: row; justify-content: space-around; width: 100%;">
+
+  <div style="flex: 1; margin: 10px; text-align: center;">
+    <h2>📊 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandrachur67&show_icons=true&locale=en&layout=compact" alt="Chandrachur67" height="195px" />
+  </div>
+
+  <div style="flex: 1; margin: 10px; text-align: center;">
+    <h2>📊 Leetcode Stats</h2>
+    <img src="https://leetcard.jacoblin.cool/Chandrachur?ext=contest" alt="LeetCode Stats" height="300px" />
+  </div>
+
+</div>
+
+  </div> -->
+  <table>
+  <tr>
+  	<td> 
+      <h2>📊 GitHub Stats</h2>
+    </td>
+  	<td>
+      <h2>📊 Leetcode Stats</h2>
+    </td>
+  </tr>
+    <tr>
+  	<td> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandrachur67&show_icons=true&locale=en&layout=compact" alt="Chandrachur67" height="195px" />
+    </td>
+  	<td>
+      <img src="https://leetcard.jacoblin.cool/Chandrachur?ext=contest" alt="LeetCode Stats" height="300px" />
+    </td>
+  </tr>
+  </table>
+
+
+</body>
+
+</html>
