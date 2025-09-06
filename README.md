@@ -46,7 +46,7 @@
   </tr>
     <tr>
   	<td> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandrachur67&show_icons=true&locale=en&layout=compact" alt="Chandrachur67" height="195px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SumitSingh69&show_icons=true&locale=en&layout=compact" alt="SumitSingh69" height="195px" />
     </td>
   </tr>
   </table>
