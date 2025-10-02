@@ -5,7 +5,7 @@
     <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=800&lines=Hi+there%2C+I'm+Sumit+Singh+Bora%21+%F0%9F%91%8B;Let's+Connect!" />
   </div>
 
-  <p>I'm a passionate MERN Stack web developer. I love collaborating with teams to create innovative and user-friendly web applications.</p>
+  <p>I'm a Software Engineer, I love collaborating with teams to create innovative and user-friendly web applications.</p>
 
   <h2>🌐 Connect with Me</h2>
 
