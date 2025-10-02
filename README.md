@@ -21,19 +21,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,solidity,ruby&theme=dark" alt="Programming Languages" />
   <img src="https://skillicons.dev/icons?i=bash,git,github,docker" alt="Version Control & Docker" />
 
-  <table>
-  <tr>
-  	<td> 
-      <h2>📊 GitHub Stats</h2>
-    </td>
-  </tr>
-    <tr>
-  	<td> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SumitSingh69&show_icons=true&locale=en&layout=compact" alt="SumitSingh69" height="195px" />
-    </td>
-  </tr>
-  </table>
-
 
 </body>
 
